@@ -1,0 +1,7 @@
+{
+  "name": "hypeBrand",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
